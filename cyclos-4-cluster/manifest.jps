@@ -23,7 +23,8 @@ settings:
         cyclos-4.10.4: cyclos-4.10.4
         cyclos-4.11: cyclos-4.11
         cyclos-4.12.4: cyclos-4.12.4
-      default: cyclos-4.12.4      
+        cyclos-4.13: cyclos-4.13
+      default: cyclos-4.13      
 
 globals:
   password: "${fn.password}"
